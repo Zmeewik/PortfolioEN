@@ -2,9 +2,12 @@
 
 <img width="1170" height="827" alt="2-01" src="https://github.com/user-attachments/assets/8ca0ad2f-f75d-4319-9bc5-1ab535f37396" />
 https://github.com/Zmeewik
+
 https://3irety.itch.io
+
 <img width="1170" height="827" alt="2-02" src="https://github.com/user-attachments/assets/9fca6189-2081-454c-bdc0-7f4a53430160" />
 https://3irety.itch.io/psychopoly
+
 https://github.com/Zmeewik/PsychoTale
 <img width="1170" height="827" alt="2-03" src="https://github.com/user-attachments/assets/b89a8d2c-40b5-4958-a9d5-513f72dfcde3" />
 <img width="1170" height="827" alt="2-04" src="https://github.com/user-attachments/assets/b19d5fee-e34b-4e96-a484-3b41ac301bbd" />
