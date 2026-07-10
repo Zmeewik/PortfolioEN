@@ -9,6 +9,7 @@ https://3irety.itch.io
 https://3irety.itch.io/psychopoly
 
 https://github.com/Zmeewik/PsychoTale
+
 <img width="1170" height="827" alt="2-03" src="https://github.com/user-attachments/assets/b89a8d2c-40b5-4958-a9d5-513f72dfcde3" />
 <img width="1170" height="827" alt="2-04" src="https://github.com/user-attachments/assets/b19d5fee-e34b-4e96-a484-3b41ac301bbd" />
 <img width="1170" height="827" alt="2-05" src="https://github.com/user-attachments/assets/854b81fb-d8df-444d-8c81-b88407de35d0" />
